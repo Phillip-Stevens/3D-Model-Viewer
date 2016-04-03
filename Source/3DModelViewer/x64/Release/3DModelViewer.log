@@ -1,0 +1,30 @@
+﻿  Matrix4x4.cpp
+Matrix4x4.cpp(90): warning C4305: 'initializing': truncation from 'double' to 'float'
+Matrix4x4.cpp(95): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+Matrix4x4.cpp(96): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+Matrix4x4.cpp(97): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+Matrix4x4.cpp(98): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+Matrix4x4.cpp(105): warning C4305: 'initializing': truncation from 'double' to 'float'
+Matrix4x4.cpp(110): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+Matrix4x4.cpp(111): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+Matrix4x4.cpp(112): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+Matrix4x4.cpp(113): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+Matrix4x4.cpp(119): warning C4305: 'initializing': truncation from 'double' to 'float'
+Matrix4x4.cpp(124): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+Matrix4x4.cpp(125): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+Matrix4x4.cpp(126): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+Matrix4x4.cpp(127): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  OBJFileReader.cpp
+  OGLApplication.cpp
+  OGLCube.cpp
+  OGLRectangle.cpp
+  OGLWin32.cpp
+  OGLWindow.cpp
+  Triangle.cpp
+  TriangleMesh.cpp
+  Vector2D.cpp
+  Vector4D.cpp
+  Generating code
+  All 90 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  3DModelViewer.vcxproj -> C:\Users\Phillip\Desktop\Get Videos Of\3DModelViewer\Source\x64\Release\3DModelViewer.exe
